@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learnSQL", "learnSQL\learnSQL.csproj", "{A032BCFC-4BDC-4C70-AF19-3E0C3C3903E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A032BCFC-4BDC-4C70-AF19-3E0C3C3903E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A032BCFC-4BDC-4C70-AF19-3E0C3C3903E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A032BCFC-4BDC-4C70-AF19-3E0C3C3903E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A032BCFC-4BDC-4C70-AF19-3E0C3C3903E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E9623AA-107A-45F4-B82D-CB3814B1A5CA}
+	EndGlobalSection
+EndGlobal
